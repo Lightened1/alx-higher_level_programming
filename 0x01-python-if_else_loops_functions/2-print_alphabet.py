@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#!/usr/bin/python3
 
 number = 97
 while number < 123:
